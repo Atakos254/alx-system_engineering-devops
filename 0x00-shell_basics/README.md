@@ -1,1 +1,1 @@
-list in long format
+list starting with periods in long format
