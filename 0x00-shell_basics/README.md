@@ -1,1 +1,1 @@
-list starting with periods in long format
+list file digits only
